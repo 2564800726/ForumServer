@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ForumServer:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ForumServer_jar</output-path>
+    <root id="archive" name="ForumServer.jar">
+      <element id="module-output" name="ForumServer" />
+      <element id="extracted-dir" path="C:/Program Files/Java/MY_BIN/commons-logging-1.1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Program Files/Java/MY_BIN/ezmorph-1.0.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Program Files/Java/MY_BIN/mysql-connector-java-5.1.45.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Program Files/Java/MY_BIN/json-lib-2.4-jdk15.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Program Files/Java/MY_BIN/commons-collections-3.2.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Program Files/Java/MY_BIN/mysql-connector-java-8.0.14.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Program Files/Java/MY_BIN/commons-beanutils-1.8.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Program Files/Java/MY_BIN/commons-lang-2.6.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
